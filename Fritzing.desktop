@@ -1,10 +1,9 @@
 [Desktop Entry]
 Type=Application
-Icon=/home/${HOME}/Fritzing/fritzing.png
+Icon=/home/user/Fritzing/fritzing.png
 Name=Fritzing
 Terminal=false
 Hidden=false
-Categories=Development; Education; Science
-Exec=/home/${HOME}/Fritzing/fritzing.AppImage
-Path=/home/${HOME}/Fritzing
+Categories=Development; IDE; Electronicse
+Exec=/home/user/Fritzing/fritzing.AppImage
 StartupWMClass=arronax

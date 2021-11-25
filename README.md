@@ -6,7 +6,7 @@
 
 ### Установка:
 
-`git clone https://github.com/rurewa/Fritzing.git && cp ${HOME}/Fritzing/Fritzing.desktop ${HOME}/Рабочий\ стол/`
+`git clone https://github.com/rurewa/Fritzing.git && cd Fritzing && cp ${HOME}/Fritzing/Fritzing.desktop ${HOME}/Рабочий\ стол/`
 
 ### Обновление (beta):
 
